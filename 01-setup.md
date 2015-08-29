@@ -32,7 +32,7 @@ When you post your homework follow this rules
 
 * **Document your homework**: Each homework folder should have a ```README.md``` file where you: explain the process, doubts, changeless, discoveries, useful links, attribution of borrow code, etc.
 
-* **Present your self**: copy and edit the```04-student_template.md``` and use it as your main ```README.md``` file on the root of your repository.
+* **Present your self**: copy and edit the```03-student_template.md``` and use it as your main ```README.md``` file on the root of your repository.
 
 * **Avoid adding binary files**: Prevent the uploading images or executable files.
 

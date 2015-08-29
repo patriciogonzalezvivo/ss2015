@@ -22,16 +22,29 @@ Think of this course as a drawing studio course where you will exercise and trai
 | WEEK | DATE  | TOPIC                                     |
 |:----:|:-----:|:------------------------------------------|
 |  01  | 09/02 | Presentation                              |
-
+|  02  | 09/09 | Getting started		 												 |
+|  03  | 09/16 | Shaping Functions		                       |
+|  04  | 09/30 | Color                                     |
+|  05  | 10/07 | Shapes                                    |
+|  06  | 10/14 | Matrices                                  |
+|  07  | 10/21 | Patterns                                  |
+|  08  | 10/28 | MIDTERM PROJECT                           |
+|  09  | 11/04 | Random                                    |
+|  10  | 11/11 | Noise and Fractals                        |
+|  11  | 11/18 | Image operations                          |
+|  12  | 11/25 | Simulations                               |
+|  13  | 12/02 | Final project workshop                    |
+|  14  | 12/09 | Final project workshop                    |
+|  15  | 12/16 | FINAL PROJECT                             |
 
 ## Learning Outcomes
 By the successful completion of this course, students will be able to:
 
-*
+* Be able to program and run their own GLSL Shaders in different platforms and frameworks.
 
-*
+* Have an understanding of how parallel programming works and how different well known algorithms could be adapted to it.
 
-*
+* Be comfortable talking about their work in front of other students.
 
 ## Final Grade Calculation
 * 10% participation
@@ -42,7 +55,47 @@ By the successful completion of this course, students will be able to:
 
 ## Materials and Supplies
 
+Hardware:
 
+* Computer with dedicated GPU Card (NVidia/ATI) running MacOSX or Linux
+
+or
+
+* [RaspberryPi 2](http://www.adafruit.com/products/2358) + [everything you need to use it](http://www.adafruit.com/products/2129)
+
+Software tools:
+
+* [**glslCanvas**](https://github.com/patriciogonzalezvivo/glslCanvas):Simple tool to load GLSL shaders on HTML Canvas using WebGL. 
+
+* [**glslViewer**](http://patriciogonzalezvivo.com/2015/glslViewer/) Live GLSL coding render for MacOS and Linux 
+
+* [**SublimeText**](http://www.sublimetext.com/): don’t need introductions. Probably one of the best free text editors. You probably one to install the following packages: DashDoc, Color Highlighter, OpenGL Shading Language (GLSL) and MarkdownEditing.
+
+* [**SublimeText GlslViewer Plugin**](https://packagecontrol.io/packages/glslViewer) Sublime Text 2/3 plugin for live coding GLSL Shaders
+
+* **Grapher**: Comes for free in your OS X distribution. This handy tool let you visualize math function
+
+* [**Shadershop**](http://tobyschachman.com/Shadershop/) an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer’s spatial reasoning the way that coding today leverages the programmer’s symbolic reasoning.
+
+* [**Spectrum**]: Nice color scheme tool that let you extract color palettes and insert them in your code easily.
+
+* [**Mou**](http://mouapp.com/): is important to document well your projects. Get a nice Markdown editor like [Mou](http://mouapp.com/) or [AiWriter](http://www.iawriter.com/mac/)
+
+* [**ShaderToy**](https://www.shadertoy.com/): important openSource gallery of impressive fragments shaders.
+
+Texts:
+
+* [**The Book of Shaders**](http://thebookofshaders.com) We are going to follow the chapters order of this book, also you can use the [**Shader Editor**](http://patriciogonzalezvivo.com/2015/thebookofshaders/edit.html), [**Function Editor**](http://patriciogonzalezvivo.com/2015/thebookofshaders/function.html) and [**Glossary**](http://patriciogonzalezvivo.com/2015/thebookofshaders/glossary/) from it
+
+* [OpenGL Introduction](https://open.gl/introduction)
+
+* [The 8th edition of the OpenGL Programming Guide (also known as the red book)](http://www.amazon.com/OpenGL-Programming-Guide-Official-Learning/dp/0321773039/ref=sr_1_1?s=books&ie=UTF8&qid=1424007417&sr=1-1&keywords=open+gl+programming+guide)
+
+* [WebGL: Up and Running](http://www.amazon.com/WebGL-Up-Running-Tony-Parisi/dp/144932357X/ref=sr_1_4?s=books&ie=UTF8&qid=1425147254&sr=1-4&keywords=webgl)
+
+* [3rd Edition of Mathematics for 3D Game Programming and computer Graphics](http://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869/ref=sr_1_1?ie=UTF8&qid=1424007839&sr=8-1&keywords=mathematics+for+games)
+
+* [2nd Edition of Essential Mathematics for Games and Interactive Applications](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/ref=sr_1_1?ie=UTF8&qid=1424007889&sr=8-1&keywords=essentials+mathematics+for+developers)
 
 ## Grading Standards
 
