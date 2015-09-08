@@ -1,7 +1,7 @@
  
 	**Creative Coding: Shader Studio** - 7040 - PGTE 5566 - B
-	
-	Wednesdays between 7:00 pm - 9:40 pm 
+
+Wednesdays at D 1208 (6 E 16th ST) from 1900 to 2140 hours
 
 Welcome to **Shader Studio FALL 2015**, [here](https://github.com/patriciogonzalezvivo/ss2015) you will find the class material.
 

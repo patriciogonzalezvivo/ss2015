@@ -1,3 +1,6 @@
 [submodule "florr422_ss2015"]
 	path = florr422_ss2015
 	url = git@github.com:reginaflores/florr422_ss2015.git
+[submodule "dothh489_ss2015"]
+	path = dothh489_ss2015
+	url = git@github.com:228miles/dothh489_ss2015.git
