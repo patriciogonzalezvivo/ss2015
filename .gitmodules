@@ -49,3 +49,6 @@
 [submodule "mahau289_ss2015"]
 	path = mahau289_ss2015
 	url = git@github.com:uditmahajan/mahau289_ss2015.git
+[submodule "shaderstudio2015"]
+	path = shaderstudio2015
+	url = git@github.com:nimabeh/shaderstudio2015.git
