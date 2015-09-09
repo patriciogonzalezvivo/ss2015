@@ -10,3 +10,6 @@
 [submodule "zhanx203_ss2015"]
 	path = zhanx203_ss2015
 	url = git@github.com:xueerzhang/zhanx203_ss2015.git
+[submodule "henrt555_ss2015"]
+	path = henrt555_ss2015
+	url = git@github.com:tyhenry/henrt555_ss2015.git
