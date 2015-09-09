@@ -19,3 +19,33 @@
 [submodule "shiw200_ss2015"]
 	path = shiw200_ss2015
 	url = git@github.com:shiwl/shiw200_ss2015.git
+[submodule "zhaot745_ss2015"]
+	path = zhaot745_ss2015
+	url = git@github.com:oahzgnit/zhaot745_ss2015.git
+[submodule "henrw850_ss2015"]
+	path = henrw850_ss2015
+	url = git@github.com:henriew/henrw850_ss2015.git
+[submodule "peterobbin_ss2015"]
+	path = peterobbin_ss2015
+	url = git@github.com:peterobbin/peterobbin_ss2015.git
+[submodule "yub582_ss2015"]
+	path = yub582_ss2015
+	url = git@github.com:borissyuu/yub582_ss2015.git
+[submodule "randj063_ss2015"]
+	path = randj063_ss2015
+	url = git@github.com:jaskiratr/randj063_ss2015.git
+[submodule "tothn598_ss2015"]
+	path = tothn598_ss2015
+	url = git@github.com:nitchafame/tothn598_ss2015.git
+[submodule "gernc653_ss2015"]
+	path = gernc653_ss2015
+	url = git@github.com:Nakamila/gernc653_ss2015.git
+[submodule "lims439_ss2015"]
+	path = lims439_ss2015
+	url = git@github.com:thehandson/lims439_ss2015.git
+[submodule "fengp239_ss2015"]
+	path = fengp239_ss2015
+	url = git@github.com:siephe/fengp239_ss2015.git
+[submodule "mahau289_ss2015"]
+	path = mahau289_ss2015
+	url = git@github.com:uditmahajan/mahau289_ss2015.git
