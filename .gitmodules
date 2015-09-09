@@ -16,3 +16,6 @@
 [submodule "parkm223_ss2015"]
 	path = parkm223_ss2015
 	url = git@github.com:g-bunny/parkm223_ss2015.git
+[submodule "shiw200_ss2015"]
+	path = shiw200_ss2015
+	url = git@github.com:shiwl/shiw200_ss2015.git
