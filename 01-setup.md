@@ -75,7 +75,7 @@ On the directory you want to have it just do:
 Keep it updated and use it to see each other work.
 
 ```bash
-	git pull && git submodule init && git submodule update && git submodule status
+	git submodule foreach git pull origin master
 ```
 
 Help and learn from others, then remember to give attribution for what you had receive.
