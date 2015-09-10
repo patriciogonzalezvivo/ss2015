@@ -25,9 +25,6 @@
 [submodule "henrw850_ss2015"]
 	path = henrw850_ss2015
 	url = git@github.com:henriew/henrw850_ss2015.git
-[submodule "peterobbin_ss2015"]
-	path = peterobbin_ss2015
-	url = git@github.com:peterobbin/peterobbin_ss2015.git
 [submodule "yub582_ss2015"]
 	path = yub582_ss2015
 	url = git@github.com:borissyuu/yub582_ss2015.git
