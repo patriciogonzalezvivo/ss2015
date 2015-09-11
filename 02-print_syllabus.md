@@ -18,7 +18,7 @@ Open your terminal and go to the class folder
 
 And run Pandoc to make a pdf version of the Syllabus
 
-	pandoc README.md --latex-engine=xelatex -o syllabus.pdf
+	pandoc README.md --latex-engine=xelatex -o PGTE_5566_B_GonzaleVivo_FA15.pdf
 
 You can use this same command to print other class material that is on Markdown.
  

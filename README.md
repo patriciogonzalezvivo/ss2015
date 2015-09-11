@@ -1,9 +1,8 @@
  
 	**Creative Coding: Shader Studio** - 7040 - PGTE 5566 - B
+	Wednesdays at D 1208 (6 E 16th ST) from 1900 to 2140 hours
 
-Wednesdays at D 1208 (6 E 16th ST) from 1900 to 2140 hours
-
-Welcome to **Shader Studio FALL 2015**, [here](https://github.com/patriciogonzalezvivo/ss2015) you will find the class material.
+Welcome to **Shader Studio FALL 2015**, [here](https://github.com/patriciogonzalezvivo/ss2015) you will find the class syllabus, assignments and materials.
 
 ## Course Description
 This studio course will focus on acquiring advance graphical programming skills using OpenGL/WebGL Shading Language to modify the rendering pipeline. Students are free to use the tool, library or framework they most feel comfortable with such as: Processing, openFrameworks, Cinder, Three.js, Shadertoy or other. In particular, this course will cover GLSL pixel (or fragment) shaders.
@@ -46,13 +45,6 @@ By the successful completion of this course, students will be able to:
 
 * Be comfortable talking about their work in front of other students.
 
-## Final Grade Calculation
-* 10% participation
-* 20% attendance 
-* 30% homework 
-* 20% mid term
-* 20% final project
-
 ## Materials and Supplies
 
 Hardware:
@@ -65,7 +57,7 @@ or
 
 Software tools:
 
-* [**glslCanvas**](https://github.com/patriciogonzalezvivo/glslCanvas):Simple tool to load GLSL shaders on HTML Canvas using WebGL. 
+* [**glslCanvas**](https://github.com/patriciogonzalezvivo/glslCanvas):Simple tool to load GLSL shaders on HTML Canvas using WebGL.
 
 * [**glslViewer**](http://patriciogonzalezvivo.com/2015/glslViewer/) Live GLSL coding render for MacOS and Linux 
 
@@ -96,6 +88,22 @@ Texts:
 * [3rd Edition of Mathematics for 3D Game Programming and computer Graphics](http://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869/ref=sr_1_1?ie=UTF8&qid=1424007839&sr=8-1&keywords=mathematics+for+games)
 
 * [2nd Edition of Essential Mathematics for Games and Interactive Applications](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/ref=sr_1_1?ie=UTF8&qid=1424007889&sr=8-1&keywords=essentials+mathematics+for+developers)
+
+
+## Final Grade Calculation
+* 10% participation
+* 20% attendance 
+* 30% homework 
+* 20% mid term
+* 20% final project
+
+## Assignments
+
+* [Homework](04-homework.md) will be provided weekly and available on Canvas.
+
+* The midterm project will consist on choosing three design rules (like for example *diversity*, *simplicity* and *elegance*) and make a GLSL library (group of custom functions) to make simple shapes (no less than 5) and ways to combine them in a **series of procedural [patterns](https://www.pinterest.com/patriciogonzv/paterns/)** (no less than 10). Make a project on OF, P5, three.js or other framework (Unity, Tangram, etc) to show off the qualities you choose. Your project have to be documented and sharable over the internet as a video or webpage.
+
+* For you final project create and combine at least teen shaders according to you own design guides (like the midterm project) to apply them on: a [**map**](https://www.pinterest.com/patriciogonzv/cartography/), a [**HUD**](https://www.pinterest.com/patriciogonzv/huds/), a **game** or [**interactive art**](https://www.pinterest.com/patriciogonzv/art-installations/). The project have to be well documented and sharable over the internet as a video or webpage.
 
 ## Grading Standards
 
