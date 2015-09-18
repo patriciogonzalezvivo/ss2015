@@ -1,4 +1,5 @@
- 
+ 	Parsons The New School for Design
+	Master in Design and Technology
 	**Creative Coding: Shader Studio** - 7040 - PGTE 5566 - B
 	Wednesdays at D 1208 (6 E 16th ST) from 1900 to 2140 hours
 
@@ -18,23 +19,23 @@ Think of this course as a drawing studio course where you will exercise and trai
 
 ## Course Outline
 
-| WEEK | DATE  | TOPIC                                     |
-|:----:|:-----:|:------------------------------------------|
-|  01  | 09/02 | Presentation                              |
-|  02  | 09/09 | Getting started		 												 |
-|  03  | 09/16 | Shaping Functions		                       |
-|  04  | 09/30 | Color                                     |
-|  05  | 10/07 | Shapes                                    |
-|  06  | 10/14 | Matrices                                  |
-|  07  | 10/21 | Patterns                                  |
-|  08  | 10/28 | MIDTERM PROJECT                           |
-|  09  | 11/04 | Random                                    |
-|  10  | 11/11 | Noise and Fractals                        |
-|  11  | 11/18 | Image operations                          |
-|  12  | 11/25 | Simulations                               |
-|  13  | 12/02 | Final project workshop                    |
-|  14  | 12/09 | Final project workshop                    |
-|  15  | 12/16 | FINAL PROJECT                             |
+| WEEK | DATE  | TOPIC                  | Assignment          |
+|:----:|:-----:|:----------------------:|:-------------------:|
+|  01  | 09/02 | Presentation           | Read chapters 1,2, 3 & 4 & do the exercises |
+|  02  | 09/09 | Getting started		 			| Read chapter 5 & do the exercises |
+|  03  | 09/16 | Shaping Functions		    | Read chapter 6 & do the exercises |
+|  04  | 09/30 | Color                  | Read chapter 7 & do the exercises |
+|  05  | 10/07 | Shapes                 | Read chapter 8 & do the exercises |
+|  06  | 10/14 | Matrices               | Read chapter 9 & do the exercises |
+|  07  | 10/21 | Patterns               | Prepare midterm project |
+|  08  | 10/28 | MIDTERM PROJECT        | Read chapter 10 & do the exercises |
+|  09  | 11/04 | Random                 | Read chapter 11 & do the exercises|
+|  10  | 11/11 | Noise and Fractals			| Read chapter 12 & do the exercises |
+|  11  | 11/18 | Image operations				| Read chapter 13 & do the exercises |
+|  12  | 11/25 | Simulations							| Read chapter 14 & do the exercises |
+|  13  | 12/02 | Final project workshop | Read chapter 15 & do the exercises |
+|  14  | 12/09 | Final project workshop	| Prepare final project |
+|  15  | 12/16 | FINAL PROJECT          | Celebrate |
 
 ## Learning Outcomes
 By the successful completion of this course, students will be able to:
