@@ -21,21 +21,20 @@ Think of this course as a drawing studio course where you will exercise and trai
 
 | WEEK | DATE  | TOPIC                  | Assignment          |
 |:----:|:-----:|:----------------------:|:-------------------:|
-|  01  | 09/02 | Presentation           | Read chapters 1,2, 3 & 4 & do the exercises |
-|  02  | 09/09 | Getting started		 			| Read chapter 5 & do the exercises |
-|  03  | 09/16 | Shaping Functions		    | Read chapter 6 & do the exercises |
-|  04  | 09/30 | Color                  | Read chapter 7 & do the exercises |
-|  05  | 10/07 | Shapes                 | Read chapter 8 & do the exercises |
-|  06  | 10/14 | Matrices               | Read chapter 9 & do the exercises |
-|  07  | 10/21 | Patterns               | Prepare midterm project |
-|  08  | 10/28 | MIDTERM PROJECT        | Read chapter 10 & do the exercises |
-|  09  | 11/04 | Random                 | Read chapter 11 & do the exercises|
-|  10  | 11/11 | Noise and Fractals			| Read chapter 12 & do the exercises |
-|  11  | 11/18 | Image operations				| Read chapter 13 & do the exercises |
-|  12  | 11/25 | Simulations							| Read chapter 14 & do the exercises |
-|  13  | 12/02 | Final project workshop | Read chapter 15 & do the exercises |
-|  14  | 12/09 | Final project workshop	| Prepare final project |
-|  15  | 12/16 | FINAL PROJECT          | Celebrate |
+|  01  | 09/02 | Presentation & setup   | Read chapters 1,2, 3, 4, 5 & do the exercises |
+|  02  | 09/09 | Shaping Functions		| Read chapter 6 & do the exercises |
+|  03  | 09/16 | Color                  | Read chapter 7 & do the exercises |
+|  04  | 10/30 | Shapes                 | Read chapter 8 & do the exercises |
+|  05  | 10/14 | Matrices               | Read chapter 9 & do the exercises |
+|  06  | 10/21 | Patterns               | Prepare midterm project |
+|  07  | 10/28 | MIDTERM PROJECT        | Read chapter 10 & do the exercises |
+|  08  | 11/04 | Random                 | Read chapter 11 & do the exercises|
+|  09  | 11/11 | Noise and Fractals	    | Read chapter 12 & do the exercises |
+|  10  | 11/18 | Image operations       | Read chapter 13 & do the exercises |
+|  11  | 11/25 | Simulations			| Read chapter 14 & do the exercises |
+|  12  | 12/02 | Final project workshop | Read chapter 15 & do the exercises |
+|  13  | 12/09 | Final project workshop	| Prepare final project |
+|  14  | 12/16 | FINAL PROJECT          | Celebrate |
 
 ## Learning Outcomes
 By the successful completion of this course, students will be able to:
@@ -100,7 +99,7 @@ Texts:
 
 ## Assignments
 
-* [Homework](04-homework.md) will be provided weekly and available on Canvas.
+* Homework will be provided weekly and available on Canvas.
 
 * The midterm project will consist on choosing three design rules (like for example *diversity*, *simplicity* and *elegance*) and make a GLSL library (group of custom functions) to make simple shapes (no less than 5) and ways to combine them in a **series of procedural [patterns](https://www.pinterest.com/patriciogonzv/paterns/)** (no less than 10). Make a project on OF, P5, three.js or other framework (Unity, Tangram, etc) to show off the qualities you choose. Your project have to be documented and sharable over the internet as a video or webpage.
 
