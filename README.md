@@ -69,7 +69,7 @@ Software tools:
 
 * [**Shadershop**](http://tobyschachman.com/Shadershop/) an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer’s spatial reasoning the way that coding today leverages the programmer’s symbolic reasoning.
 
-* [**Spectrum**]: Nice color scheme tool that let you extract color palettes and insert them in your code easily.
+* [**Spectrum**](http://www.eigenlogik.com/spectrum/mac): Nice color scheme tool that let you extract color palettes and insert them in your code easily.
 
 * [**Mou**](http://mouapp.com/): is important to document well your projects. Get a nice Markdown editor like [Mou](http://mouapp.com/) or [AiWriter](http://www.iawriter.com/mac/)
 
