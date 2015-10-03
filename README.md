@@ -24,15 +24,16 @@ Think of this course as a drawing studio course where you will exercise and trai
 |  01  | 09/02 | Presentation & setup   | Read chapters 1,2, 3, 4, 5 & do the exercises |
 |  02  | 09/09 | Shaping Functions		| Read chapter 6 & do the exercises |
 |  03  | 09/16 | Color                  | Read chapter 7 & do the exercises |
-|  04  | 10/30 | Shapes                 | Read chapter 8 & do the exercises |
-|  05  | 10/14 | Matrices               | Read chapter 9 & do the exercises |
-|  06  | 10/21 | Patterns               | Prepare midterm project |
-|  07  | 10/28 | MIDTERM PROJECT        | Read chapter 10 & do the exercises |
-|  08  | 11/04 | Random                 | Read chapter 11 & do the exercises|
-|  09  | 11/11 | Noise and Fractals	    | Read chapter 12 & do the exercises |
-|  10  | 11/18 | Image operations       | Read chapter 13 & do the exercises |
-|  11  | 11/25 | Simulations			| Read chapter 14 & do the exercises |
-|  12  | 12/02 | Final project workshop | Read chapter 15 & do the exercises |
+|  04  | 09/30 | Shapes                 | Read chapter 8 & do the exercises |
+|  05  | 10/07 | Matrices               | Read chapter 9 & do the exercises |
+|  06  | 10/14 | Patterns               | Read chapter 10 & do the exercises |
+|  06  | 10/21 | Random                 | Prepare midterm project |
+|  07  | 10/28 | MIDTERM PROJECT        | Read chapter 11 & do the exercises |
+|  08  | 11/04 | Noise							      | Read chapter 12 & do the exercises|
+|  09  | 11/11 | Fractals	              | Read chapter 13 & do the exercises |
+|  10  | 11/18 | Image operations       | Read chapter 14 & do the exercises |
+|  11  | 11/25 | Simulations			        | Read chapter 15 & do the exercises |
+|  12  | 12/02 | Final project workshop | Read chapter 16 & do the exercises |
 |  13  | 12/09 | Final project workshop	| Prepare final project |
 |  14  | 12/16 | FINAL PROJECT          | Celebrate |
 
