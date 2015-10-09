@@ -65,17 +65,4 @@ Use the ```plot()``` function we were using in the Shaping Functions Chapter to 
 
 * Choose a geometric logo to replicate using distance fields.
 
-* Watch the following videos and make an art peace in the style of John Whitney:
-    
-    - [John Whitney “Catalog” (1961)](https://www.youtube.com/watch?v=TbV7loKp69s) 
-    
-    - [John Whitney “Permutations” (1966)](https://www.youtube.com/watch?v=BzB31mD4NmA)
-    
-    - [J. Whitney “Lapis” (1966)](https://www.youtube.com/watch?v=kzniaKxMr2g)
-    
-    - [John Whitney “Matrix III” (1972)](https://www.youtube.com/watch?v=ZrKgyY5aDvA)
-    
-    - [John Whitney “Arabesque” (1975)](https://www.youtube.com/watch?v=w7h0ppnUQhE)
-    
-    - [Leo Villareal “Stars” (2007)](https://vimeo.com/3021389) 
     
