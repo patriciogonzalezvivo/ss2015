@@ -21,21 +21,23 @@ Think of this course as a drawing studio course where you will exercise and trai
 
 | WEEK | DATE  | TOPIC                  | Assignment          |
 |:----:|:-----:|:----------------------:|:-------------------:|
-|  01  | 09/02 | Presentation & setup   | Read chapters 1,2, 3, 4, 5 & do the exercises |
-|  02  | 09/09 | Shaping Functions		| Read chapter 6 & do the exercises |
-|  03  | 09/16 | Color                  | Read chapter 7 & do the exercises |
-|  04  | 09/30 | Shapes                 | Read chapter 8 & do the exercises |
-|  05  | 10/07 | Matrices               | Read chapter 9 & do the exercises |
-|  06  | 10/14 | Patterns               | Read chapter 10 & do the exercises |
-|  06  | 10/21 | Random                 | Prepare midterm project |
-|  07  | 10/28 | MIDTERM PROJECT        | Read chapter 11 & do the exercises |
-|  08  | 11/04 | Noise							      | Read chapter 12 & do the exercises|
-|  09  | 11/11 | Fractals	              | Read chapter 13 & do the exercises |
-|  10  | 11/18 | Image operations       | Read chapter 14 & do the exercises |
-|  11  | 11/25 | Simulations			        | Read chapter 15 & do the exercises |
-|  12  | 12/02 | Final project workshop | Read chapter 16 & do the exercises |
-|  13  | 12/09 | Final project workshop	| Prepare final project |
-|  14  | 12/16 | FINAL PROJECT          | Celebrate |
+|  01  | 09/02 | Presentation & setup: Introduce the course, instructor and students, review syllabus, discuss technical requirements and tools for shader coding, and present basics of GLSL. | Read chapters 1,2, 3, 4, 5 & do the exercises |
+|  02  | 09/09 | Shaping Functions: Explore and analyze the variety of mathematical formulae used to “shape” position, color, animation and other data in shader code. 
+	| Read chapter 6 & do the exercises |
+|  03  | 09/16 | Color: Explore and understand the creation and modification of color in GLSL, including gradients, stepped colors and time-based animations. | Read chapter 7 & do the exercises |
+|  04  | 09/30 | Shapes: Learn to use specialized GLSL methods and functions to create a variety of geometric shapes in shaders, from basic circles and squares to highly complex forms and patterns. | Read chapter 8 & do the exercises |
+|  05  | 10/07 | Matrices: Understand the basic concepts and structure of matrix operations, then learn to implement matrices in GLSL for translation, rotation, scaling and time-based animation. | Read chapter 9 & do the exercises |
+|  06  | 10/14 | Patterns: Learn to use and combine all previously-covered tools to create complex visual patterns in shaders. This class may include a guest presentation on implementing GLSL patterns in digital maps and geographic imagery. | Read chapter 10 & do the exercises |
+|  07  | 10/21 | Mid-course Review: To help prepare for midterm projects, this session will review and further explore any concepts covered up to this point, as requested by students.
+ | Prepare midterm project |
+|  08  | 10/28 | MIDTERM PROJECT: Students will present their midterm projects and receive critiques and feedback from instructor and fellow students. | Read chapter 11 & do the exercises |
+|  09  | 11/04 | Noise: Learn about noise algorithms: concept and principles, how they work and their use in GLSL; then learn the implement noise functions in shaders. | Read chapter 12 & do the exercises|
+|  10  | 11/11 | Fractals: Explore the creation of recursive forms, images and animations on the GPU through GLSL code. | Read chapter 13 & do the exercises |
+|  11  | 11/18 | Image operations: Learn to import preexisting graphic files into shaders and apply previously learned GLSL methods to manipulate the images. | Read chapter 14 & do the exercises |
+|  12  | 11/25 | Simulations: Examine the use of shaders and GLSL for simulation of natural and “real-world” phenomena, such as terrain, waves, explosions, flocking, etc. Implement sample simulations that demonstrate key principles. | Read chapter 15 & do the exercises |
+|  13  | 12/02 | Final project workshop: Work session for development, feedback and troubleshooting as students develop final projects. Some class time may also be reserved for guest presentations on specialized topics within GLSL and shader fields. | Read chapter 16 & do the exercises |
+|  14  | 12/09 | Final project workshop: (Same as above)	| Prepare final project |
+|  15  | 12/16 | FINAL PROJECT: Students will present their final projects, and receive critiques and feedback from the instructor, fellow students and potentially guest critics. | Celebrate |
 
 ## Learning Outcomes
 By the successful completion of this course, students will be able to:
