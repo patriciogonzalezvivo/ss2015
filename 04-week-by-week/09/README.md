@@ -11,3 +11,5 @@ Read the [chapter of random on The Book of Shaders](http://thebookofshaders.com/
 * Create other interesting effects.
 
 * Grab one of your patterns for the midterm and add random to it.
+
+* Try to make a matrix-like screensaver. 
