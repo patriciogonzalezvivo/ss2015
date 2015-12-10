@@ -28,7 +28,7 @@ void main(){
     vec2 st = gl_FragCoord.xy/u_resolution.xy;
     
     st *= vec2(10.);
-    float pct = (1.0+noise(st))*.5;
+    float pct = (1.0+noise(st+vec2(u_time,0.)))*.5;
     vec3 color = vec3(pct); 
    
     gl_FragColor = vec4(color,1.0); 
